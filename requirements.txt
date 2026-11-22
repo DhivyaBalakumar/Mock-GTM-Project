@@ -1,0 +1,6 @@
+pandas
+requests
+flask
+pytest
+python-dotenv
+anthropic
